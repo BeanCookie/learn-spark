@@ -1,0 +1,215 @@
+{
+  "table": {
+    "namespace": "default",
+    "name": "pokemon"
+  },
+  "rowkey": "abilities",
+  "columns": {
+    "abilities": {
+      "cf": "rowkey",
+      "col": "abilities",
+      "type": "string"
+    },
+    "against_bug": {
+      "cf": "cf1",
+      "col": "against_bug",
+      "type": "string"
+    },
+    "against_dark": {
+      "cf": "cf2",
+      "col": "against_dark",
+      "type": "string"
+    },
+    "against_dragon": {
+      "cf": "cf3",
+      "col": "against_dragon",
+      "type": "string"
+    },
+    "against_electric": {
+      "cf": "cf4",
+      "col": "against_electric",
+      "type": "string"
+    },
+    "against_fairy": {
+      "cf": "cf5",
+      "col": "against_fairy",
+      "type": "string"
+    },
+    "against_fight": {
+      "cf": "cf6",
+      "col": "against_fight",
+      "type": "string"
+    },
+    "against_fire": {
+      "cf": "cf7",
+      "col": "against_fire",
+      "type": "string"
+    },
+    "against_flying": {
+      "cf": "cf8",
+      "col": "against_flying",
+      "type": "string"
+    },
+    "against_ghost": {
+      "cf": "cf9",
+      "col": "against_ghost",
+      "type": "string"
+    },
+    "against_grass": {
+      "cf": "cf10",
+      "col": "against_grass",
+      "type": "string"
+    },
+    "against_ground": {
+      "cf": "cf11",
+      "col": "against_ground",
+      "type": "string"
+    },
+    "against_ice": {
+      "cf": "cf12",
+      "col": "against_ice",
+      "type": "string"
+    },
+    "against_normal": {
+      "cf": "cf13",
+      "col": "against_normal",
+      "type": "string"
+    },
+    "against_poison": {
+      "cf": "cf14",
+      "col": "against_poison",
+      "type": "string"
+    },
+    "against_psychic": {
+      "cf": "cf15",
+      "col": "against_psychic",
+      "type": "string"
+    },
+    "against_rock": {
+      "cf": "cf16",
+      "col": "against_rock",
+      "type": "string"
+    },
+    "against_steel": {
+      "cf": "cf17",
+      "col": "against_steel",
+      "type": "string"
+    },
+    "against_water": {
+      "cf": "cf18",
+      "col": "against_water",
+      "type": "string"
+    },
+    "attack": {
+      "cf": "cf19",
+      "col": "attack",
+      "type": "string"
+    },
+    "base_egg_steps": {
+      "cf": "cf20",
+      "col": "base_egg_steps",
+      "type": "string"
+    },
+    "base_happiness": {
+      "cf": "cf21",
+      "col": "base_happiness",
+      "type": "string"
+    },
+    "base_total": {
+      "cf": "cf22",
+      "col": "base_total",
+      "type": "string"
+    },
+    "capture_rate": {
+      "cf": "cf23",
+      "col": "capture_rate",
+      "type": "string"
+    },
+    "classfication": {
+      "cf": "cf24",
+      "col": "classfication",
+      "type": "string"
+    },
+    "defense": {
+      "cf": "cf25",
+      "col": "defense",
+      "type": "string"
+    },
+    "experience_growth": {
+      "cf": "cf26",
+      "col": "experience_growth",
+      "type": "string"
+    },
+    "height_m": {
+      "cf": "cf27",
+      "col": "height_m",
+      "type": "string"
+    },
+    "hp": {
+      "cf": "cf28",
+      "col": "hp",
+      "type": "string"
+    },
+    "japanese_name": {
+      "cf": "cf29",
+      "col": "japanese_name",
+      "type": "string"
+    },
+    "name": {
+      "cf": "cf30",
+      "col": "name",
+      "type": "string"
+    },
+    "percentage_male": {
+      "cf": "cf31",
+      "col": "percentage_male",
+      "type": "string"
+    },
+    "pokedex_number": {
+      "cf": "cf32",
+      "col": "pokedex_number",
+      "type": "string"
+    },
+    "sp_attack": {
+      "cf": "cf33",
+      "col": "sp_attack",
+      "type": "string"
+    },
+    "sp_defense": {
+      "cf": "cf34",
+      "col": "sp_defense",
+      "type": "string"
+    },
+    "speed": {
+      "cf": "cf35",
+      "col": "speed",
+      "type": "string"
+    },
+    "type1": {
+      "cf": "cf36",
+      "col": "type1",
+      "type": "string"
+    },
+    "type2": {
+      "cf": "cf37",
+      "col": "type2",
+      "type": "string"
+    },
+    "weight_kg": {
+      "cf": "cf38",
+      "col": "weight_kg",
+      "type": "string"
+    },
+    "generation": {
+      "cf": "cf39",
+      "col": "generation",
+      "type": "string"
+    },
+    "is_legendary": {
+      "cf": "cf40",
+      "col": "is_legendary",
+      "type": "string"
+    }
+  }
+}
+
